@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Bryann Alfaro</a></h2>
+<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://bryannalfaro.github.io/PortafolioWeb/">Bryann Alfaro</a></h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/bryann-alfaro-509940201/">LinkedIn</a> •
 </p>
@@ -47,7 +47,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
+  <img src="https://profile-counter.glitch.me/bryannalfaro/count.svg" />
 </p>
 
 -----
