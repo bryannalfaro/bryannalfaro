@@ -10,7 +10,7 @@
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning Python and Javascript. 
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: alf19372@uvg.edu.gt
+- 📫  How to reach me: balfaro2002@gmail.com
 
 ***
 
